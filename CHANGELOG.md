@@ -1,3 +1,20 @@
+v1.1.5 (2023-01-27)
+-------------------------
+ * Update metadata
+
+v1.1.4 (2022-11-28)
+-------------------------
+ * Bump required go version to 1.18
+
+v1.1.3 (2022-11-28)
+-------------------------
+ * Update metadata
+
+v1.1.2
+----------
+ * Update metadata
+ * Fix slice out of bounds in GetTimezonesForPrefix
+
 v1.1.1
 ----------
  * Update metadata
